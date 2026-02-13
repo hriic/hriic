@@ -1,18 +1,17 @@
-<h1 align="center">Hi 👋, I'm Yaman</h1>
-<h3 align="center">Cybersecurity Student | Ethical Hacker | Always Learning</h3>
+<h1 align="center">👾 Welcome to My Cyber Space 👾</h1>
+<h3 align="center">Cybersecurity Enthusiast | Python & C++ | Linux | Always Learning</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity+Student;Ethical+Hacker;CTF+Player;Always+Learning&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com?lines=Python+%7C+C%2B%2B+%7C+Linux+%7C+Cybersecurity;Learning+Hacking+Skills;CTF+Player+In+Progress&center=true&width=600&height=50" />
 </p>
 
 ---
 
-### 🛠️ Skills
+### ⚡ Skills & Expertise
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux" />
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git" />
-  <img src="https://img.shields.io/badge/Networking-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B" />
+  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux" />
   <img src="https://img.shields.io/badge/Cybersecurity-red?style=for-the-badge" />
 </p>
 
@@ -31,6 +30,14 @@
   <img src="https://github-profile-trophy.vercel.app/?username=HRIIC&theme=dark&row=1&column=6" />
 </p>
 
+---
+
+### 🚀 About Me
+- 🎓 Learning Cybersecurity from scratch  
+- 🔐 Passionate about ethical hacking  
+- 🧠 Exploring Python & C++ programming  
+- 🐧 Practicing Linux commands & scripting  
+- 💻 Focused on building strong foundations in Cybersecurity  
 
 ---
 
@@ -40,4 +47,4 @@
 
 ---
 
-⭐ From [HRIIC](https://github.com/HRIIC)
+⭐ Welcome to my Cyber Space 🔥
