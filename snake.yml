@@ -1,0 +1,27 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # تشغيل مرة يومياً
+  workflow_dispatch:      # يتيح التشغيل اليدوي
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: hriic
+          outputs: |
+            dist/snake.svg?palette=github-dark
+      - uses: actions/upload-artifact@v3
+        with:
+          name: snake-svg
+          path: dist/snake.svg
+      - uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          keep_files: true
