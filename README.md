@@ -1,55 +1,59 @@
 <h1 align="center">
-  <img src="https://media.tenor.com/KmXzBqX0G6YAAAAC/hacker-coding.gif" width="700"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hriic!;+Cyber+Security+Expert;+Python+|+C+++|+Linux" />
 </h1>
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity+Enthusiast;Python+%7C+C%2B%2B+%7C+Linux;Hacker+In+The+Making;Learning+Ethical+Hacking&center=true&width=700&height=70" />
-</h2>
+<br/>
 
----
-
-### 🛠️ Skills & Expertise
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity-red?style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=hriic&label=Profile%20views&color=0e75b6&style=flat" alt="hriic" />
+  <img src="https://img.shields.io/github/followers/hriic?label=Followers&style=social" alt="followers" />
+  <img src="https://img.shields.io/github/stars/hriic?label=Stars&style=social" alt="stars" />
 </p>
 
----
+<br/>
 
-### 📊 GitHub Stats & Streak
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hriic&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&icon_color=00FF00&title_color=00FF00&text_color=FFFFFF" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hriic&theme=tokyonight&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=FF4500&currStreakLabel=00FF00" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hriic&custom_title=Hriic's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF&area=true&hide_border=true" width="95%" />
+</div>
+
+<br/>
+
+<h3 align="center">🛠️ Skills & Tools</h3>
+
+<br/>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HRIIC&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=HRIIC&theme=dark&hide_border=true" width="48%" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117&color=3776AB" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=0D1117&color=00599C" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0D1117&color=FCC624" />
+  <img src="https://img.shields.io/badge/Cyber_Security-FF0000?style=for-the-badge&logo=security&logoColor=white&labelColor=0D1117&color=FF0000" />
 </p>
 
----
+<br/>
 
-### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HRIIC&theme=dark&row=1&column=6" />
+  <img src="https://raw.githubusercontent.com/hriic/hriic/output/snake.svg" alt="Snake animation" />
 </p>
 
----
+<br/>
 
-### 🚀 About Me
+<h3 align="center">📫 Connect with me</h3>
+
 <p align="center">
-- 🎓 Learning Cybersecurity from scratch  
-- 🔐 Passionate about Ethical Hacking  
-- 🧠 Exploring Python & C++ programming  
-- 🐧 Practicing Linux commands & scripting  
-- 💻 Focused on building strong foundations in Cybersecurity
+  <a href="mailto:yamanhusam4@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117&color=D14836" />
+  </a>
+  <a href="https://linkedin.com/in/hriic" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117&color=0077B5" />
+  </a>
+  <a href="https://twitter.com/hriic" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0D1117&color=1DA1F2" />
+  </a>
 </p>
-
----
-
-### 📫 Contact Me
-<p align="center">
-  <a href="https://github.com/HRIIC">GitHub</a> | 
-  <a href="mailto:yamanhossam4@gmail.com">Email</a>
-</p>
-
----
-
-⭐ Welcome to my Cyber Space 🔥
