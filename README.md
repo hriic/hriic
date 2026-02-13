@@ -53,15 +53,3 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117&color=D14836" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hriic&theme=darkhub&no-frame=true&margin-w=15&row=2&column=4" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-rank.vercel.app/api?username=hriic&theme=dark&bg_color=0D1117&text_color=00FF00&title_color=00FF00&icon_color=00FF00" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hriic&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</p>
