@@ -41,7 +41,7 @@
 <br/>
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/hriic/hriic/snake-output/snake.svg" alt="Snake animation" />
+ <img src="https://raw.githubusercontent.com/hriic/hriic/snake-output/snake.gif" alt="Snake animation" />
 </p>
 
 <br/>
