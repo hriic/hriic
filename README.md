@@ -1,14 +1,14 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+My+Cyber+World;Python+%7C+C+++%7C+Linux+%7C+Cybersecurity;Learning+Ethical+Hacking&center=true&width=600&height=60" />
+  <img src="https://media.tenor.com/KmXzBqX0G6YAAAAC/hacker-coding.gif" width="600"/>
 </h1>
 
-<p align="center">
-  <img src="https://c.tenor.com/JhqQRAfi1lUAAAAC/cyber-security-hacker.gif" width="400"/>
-</p>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity+Enthusiast;Python+%7C+C%2B%2B+%7C+Linux;Hacker+In+The+Making&center=true&width=600&height=50" />
+</h2>
 
 ---
 
-### 🛠️ Skills & Expertise
+### 🛠️ Skills
 <p align="center">
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
